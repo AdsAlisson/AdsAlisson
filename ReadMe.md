@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Sou estudante de FrontEnd! <br>Curioso; Teimoso; Ágil; Pensamento crítico; Determinado e bastante organizado!.  
 
 
