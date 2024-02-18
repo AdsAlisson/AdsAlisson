@@ -1,5 +1,5 @@
 
-Sou estudante de FrontEnd! <br>Curioso; Teimoso; Ágil; Pensamento crítico; Determinado e bastante organizado!.  
+Sou estudante de Front-End! <br>Curioso; Teimoso; Ágil; Pensamento crítico; Determinado e bastante Organizado!.  
 
 
 ## 🌐 Socials:
