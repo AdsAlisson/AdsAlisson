@@ -1,4 +1,4 @@
-Hoje trabalho com Front-End! <br>Curioso; Teimoso; Ágil; Pensamento crítico; Determinado e bastante Organizado!.  
+Hoje trabalho com Front-End!  
 Estudando React; Tyspescript, Javascript etc.
 Utilizo o Vs Conde como ferramenta de trabalho. 
 
