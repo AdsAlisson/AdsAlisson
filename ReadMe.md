@@ -1,6 +1,6 @@
-
-Sou estudante de Front-End! <br>Curioso; Teimoso; Ágil; Pensamento crítico; Determinado e bastante Organizado!.  
-
+Hoje trabalho com Front-End! <br>Curioso; Teimoso; Ágil; Pensamento crítico; Determinado e bastante Organizado!.  
+Estudando React; Tyspescript, Javascript etc.
+Utilizo o Vs Conde como ferramenta de trabalho. 
 
 ## 🌐 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/alisson-cavalcante-32520269) 
