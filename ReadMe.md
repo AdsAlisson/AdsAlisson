@@ -1,8 +1,9 @@
 ## Olá,Eu sou o Alisson Cavalcante 
     Hoje trabalho com Front-End!  
-👨🏽‍🎓 Estudando React; Tyspescript, Javascript etc.
+👨🏽‍🎓 Estudando React; Tyspescript, Javascript etc
 
-🖥️ Utilizo o VsConde como ferramenta de trabalho. 
+🖥️ Utilizo o VsConde como ferramenta de trabalho
+
 📧 Contate-me no email: ads.alissonn@gmail.com
 
 ## 🌐 
